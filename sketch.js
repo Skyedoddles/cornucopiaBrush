@@ -7,7 +7,7 @@ function setup() {
 function draw() {
 
   //if (mouseIsPressed === true) {
-  //  fill(214, 211, 15);
+  //  fill(214, 211, 16);
  // } else {
  //   fill(214, 17, 20);
 //  }
